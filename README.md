@@ -2,7 +2,7 @@
 A simple script to get histograms per color channels as well as illuminance level
 
 Load the image
-https://github.com/Cozywolf/SimpleImageColorHistogram/blob/master/Lenna.png
+![Lenna](/Lenna.png?raw=true)
 
 Get histograms
-https://github.com/Cozywolf/SimpleImageColorHistogram/blob/master/Lenna_histogram.png
+![Lenna_histogram](/Lenna_histogram.png?raw=true)
